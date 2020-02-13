@@ -7,3 +7,6 @@ node_modules/
 .idea
 .sonarlint
 .node_history
+.eslintrc
+.editorconfig
+hello/
